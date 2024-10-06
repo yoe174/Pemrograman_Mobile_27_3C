@@ -151,7 +151,7 @@ Pada file pubspec.yaml, baris go_router: ^6.0.0 digunakan untuk menambahkan pake
 ## Item Page **(Nescafe)**
 ![Screenshoot hello_world](image/item_nescafe.png)
 
-![Screenshoot hello_world](image/..png)
+![Screenshoot hello_world](image/image.png)
 
 
 
