@@ -909,4 +909,5 @@ Ketika kita mengklik tombol "Change Color," aplikasi akan memanggil metode _show
 Saat kita mengklik salah satu opsi warna, aplikasi menjalankan Navigator.pop(context, color) dengan warna yang dipilih sebagai nilai. Setelah warna dipilih, setState() dipanggil untuk memperbarui variabel color, yang mengubah warna latar belakang layar sesuai pilihan (misalnya, warna latar belakang menjadi merah jika warna "Red" dipilih). Dialog kemudian tertutup, dan layar kembali menampilkan warna yang telah diubah sesuai pilihan pengguna.
 
 * Gantilah 3 warna pada langkah 3 dengan warna favorit Anda!
+  
 ![Screenshoot yonatan](image/soal-17.gif)
